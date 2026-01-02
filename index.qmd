@@ -1,0 +1,9 @@
+---
+title: "Placeholder"
+---
+
+# Placeholder site
+
+Welcome. This is a personal site for sdrew.com domain.
+
+This will eventually have content. For the moment follow me [here](linked.qmd).

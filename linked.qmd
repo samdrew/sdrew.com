@@ -1,0 +1,9 @@
+---
+title: "Secondary Page"
+---
+
+This allows me to test linking pages
+
+This is a test. 
+
+There is no need to panic. Do Not Panic. DON'T PANIC! 💥
